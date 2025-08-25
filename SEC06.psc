@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 //Escribir un algoritmo que calcule el area de un triangulo
 Algoritmo SEC06
 	Definir base, altura Como Real
@@ -13,3 +15,4 @@ Algoritmo SEC06
 	
 	Escribir "El area del triangulo es: ", area
 FinAlgoritmo
+
