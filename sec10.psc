@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 //Escribir un algoritmo que responda a una expresion algebraica
 Algoritmo sec10
 	Definir A, B, C, resultado Como Real
@@ -15,3 +17,4 @@ Algoritmo sec10
 	
 	Escribir "El resultado de la expresion es: ", resultado		
 FinAlgoritmo
+
