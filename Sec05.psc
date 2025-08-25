@@ -1,5 +1,7 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 Algoritmo Sec05
-	// Escribir un algoritmo que calcule el área de un rectángulo
+	// Escribir un algoritmo que calcule el Ã¡rea de un rectÃ¡ngulo
 		Definir Largo, Ancho Como Reales;
 		
 		Escribir "Introduzca el largo: ";
@@ -7,5 +9,6 @@ Algoritmo Sec05
 		Escribir "Introduzca el ancho: ";
 		Leer Ancho;
 		
-		Escribir "El área del rectángulo es: ", Largo * Ancho;
+		Escribir "El Ã¡rea del rectÃ¡ngulo es: ", Largo * Ancho;
 FinAlgoritmo
+
