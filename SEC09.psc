@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 //Escribir un algoritmo que calcule radio
 Algoritmo SEC09
 	Definir radio, volumen Como Real
@@ -9,3 +11,4 @@ Algoritmo SEC09
 	
 	Escribir "El volumen de la esfera es: ", volumen
 FinAlgoritmo
+
