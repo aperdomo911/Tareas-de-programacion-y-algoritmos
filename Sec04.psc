@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 //Escribir un algoritmo que suma, resta, multiplica y divivde 2 numeros
 Algoritmo SEC04
 	Definir a, b Como Entero
@@ -20,3 +22,4 @@ Algoritmo SEC04
 	Escribir "La resta es: ", resta
 	Escribir "La multiplicacion es: ", multi
 FinAlgoritmo
+
