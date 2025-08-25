@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 Algoritmo SEC03
 	//Escribir un algoritmo que sume, reste y multiplique y dvida dos numeros ENTEROS
 	Definir A, B Como Entero
@@ -19,3 +21,4 @@ Algoritmo SEC03
 	Escribir "La multiplicacion es: ", M;
 	Escribir "La division es: ", D;
 FinAlgoritmo
+
