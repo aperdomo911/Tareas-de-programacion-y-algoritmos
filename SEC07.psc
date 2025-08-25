@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 //Escribir un algoritmo que calcule la longitud y area de un rectangulo
 Algoritmo SEC07
 	Definir radio Como Real
@@ -12,3 +14,4 @@ Algoritmo SEC07
 	Escribir "La longitud de la circunferencia es: ", long
 	Escribir "El area de la circunferencia es: ", area
 FinAlgoritmo
+
