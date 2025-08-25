@@ -1,3 +1,5 @@
+//00607974 Perdomo Peralta Antonio Julian
+//ing en TI
 //Escribir un algoritmo que calcule la velocidad de un proyectil
 Algoritmo SEC08
 	Definir Velocidad, Espacio, Tiempo Como Reales;
@@ -13,3 +15,4 @@ Algoritmo SEC08
     // Muestra el resultado en la consola
     Escribir "La velocidad es: ", Velocidad, " m/s";
 FinAlgoritmo
+
